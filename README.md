@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nsteinle. I work at UoBham as a postdoc in the institute of gravitational wave astronomy :)
+- 👋 Hi, I’m @nsteinle. I work at the University of Manitoba as a postdoc
 - 👀 I’m interested in physics, ecology, philosophy, and their intersections.
 - 🌱 I’m currently learning... how to live.
-- 💞️ I’m looking to collaborate on projects pertaining to black-hole binaries and the LISA mission.
+- 💞️ I’m looking to collaborate on projects pertaining to black-hole binaries, LIGO, and the LISA mission.
 - 📫 How to reach me: nsastrophysics@gmail.com
 
 <!---
