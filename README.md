@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nsteinle. I work at the University of Manitoba as a postdoc
+- 👋 Hi, I’m @nsteinle. I work at the University of Manitoba as a postdoc in eXtreme astrophysics!
 - 👀 I’m interested in physics, ecology, philosophy, and their intersections.
-- 🌱 I’m currently learning... how to live.
-- 💞️ I’m looking to collaborate on projects pertaining to black-hole binaries, LIGO, and the LISA mission.
+- 🌱 I’m currently learning advanced statistical techniques and relativistic theory.
+- 💞️ I’m looking to collaborate on projects pertaining to black-hole and neutron star binaries, LIGO, and the LISA mission.
 - 📫 How to reach me: nsastrophysics@gmail.com
 
 <!---
