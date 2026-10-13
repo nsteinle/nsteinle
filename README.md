@@ -26,7 +26,7 @@ Lecture notes, lesson plans, and runnable Jupyter coding modules developed and u
 - **Gravitational waves from supernovae** — undergraduate lesson plan and coding worksheet (2024–2025, U Manitoba)
 - **WITP 2024** — gravitational-wave astrophysics lecture worksheets (Summer 2024, U Winnipeg)
 
-All teaching materials are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code in Jupyter notebooks is licensed MIT. Instructor versions are available on reasonable request.
+All teaching materials are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Instructor versions are available on reasonable request.
 
 ---
 
