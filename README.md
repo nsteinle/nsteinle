@@ -1,6 +1,6 @@
 # Nathan Steinle
 
-Astrophysicist and postdoctoral researcher at the University of Manitoba, working across gravitational-wave astronomy, multi-messenger astrophysics, and machine learning. I build data analysis pipelines, teach at the undergraduate and graduate level, and develop open educational materials for physics and data science.
+Astrophysicist working across gravitational-wave astronomy, multi-messenger astrophysics, and machine learning. I build data analysis pipelines, teach at the undergraduate and graduate level, and develop open educational materials and research modules for physics and data science.
 
 [ORCID](https://orcid.org/0000-0003-0658-402X) · [Website](https://nsastrophysics.github.io)
 
