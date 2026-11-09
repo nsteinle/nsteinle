@@ -6,6 +6,28 @@ Astrophysicist working across gravitational-wave astronomy, multi-messenger astr
 
 ---
 
+## Research and Software
+
+### [creditdecide](https://github.com/nsteinle/creditdecide)
+
+A Python package that turns a labeled table into a decision rule that can be explained and monitored, shown on 30,000 real credit-card accounts. It includes:
+
+- **Data quality and leakage control** — checks for duplicates and undocumented codes, and a group-aware split so that no duplicate input crosses from the test split into training
+- **Decisions** — calibrated probabilities, capacity and cost policies, and a benchmark against the best one-line rule
+- **Explanations and uncertainty** — reason codes for every flagged account, and 95% bootstrap intervals for the test results
+- **Monitoring and fairness** — population stability reports for new data, and a fairness audit by protected group
+- **Data layer and reporting** — DuckDB SQL, tested against pandas, and tables for a [Tableau Public dashboard](https://public.tableau.com/app/profile/nathan.steinle/viz/creditdecidewhichcreditcardaccountstoreview/creditdecide)
+
+On the bundled data, reviewing the riskiest 10% of accounts reaches 31.5% of next month's defaulters, and the best one-line rule does as well at the same volume.
+
+[PyPI](https://pypi.org/project/creditdecide/) · [Zenodo](https://doi.org/10.5281/zenodo.24059025) · [Dashboard](https://public.tableau.com/app/profile/nathan.steinle/viz/creditdecidewhichcreditcardaccountstoreview/creditdecide) · MIT license
+
+### declinecast
+
+*Coming soon!*
+
+---
+
 ## Teaching
 
 ### [Introductory Physics, Math, and Chemistry](https://github.com/nsteinle/intro-physics-math-chemistry-teaching)
@@ -27,12 +49,6 @@ Lecture notes, lesson plans, and runnable Jupyter coding modules developed and u
 - **WITP 2024** — gravitational-wave astrophysics lecture worksheets (Summer 2024, U Winnipeg)
 
 All teaching materials are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Instructor versions are available on reasonable request.
-
----
-
-## Research and Software
-
-*Coming soon — public code repositories for astrophysical data analysis and machine learning pipelines.*
 
 ---
 
