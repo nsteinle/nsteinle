@@ -8,6 +8,11 @@ Astrophysicist working across gravitational-wave astronomy, multi-messenger astr
 
 ## Research and Software
 
+### classSNRcat
+
+---coming soon!
+
+
 ### [creditdecide](https://github.com/nsteinle/creditdecide)
 
 A Python package that turns a labeled table into a decision rule that can be explained and monitored, shown on 30,000 real credit-card accounts. It includes:
