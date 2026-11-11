@@ -22,9 +22,20 @@ On the bundled data, reviewing the riskiest 10% of accounts reaches 31.5% of nex
 
 [PyPI](https://pypi.org/project/creditdecide/) · [Zenodo](https://doi.org/10.5281/zenodo.24059025) · [Dashboard](https://public.tableau.com/app/profile/nathan.steinle/viz/creditdecidewhichcreditcardaccountstoreview/creditdecide) · MIT license
 
-### declinecast
+### [declinecast](https://github.com/nsteinle/declinecast)
 
-*Coming soon!*
+A Python package that forecasts how much oil a well will produce in its first three years from its first months of production, with low and high cases that are checked against what the wells went on to produce. It is shown on 8,344 horizontal wells in Colorado's DJ Basin, from the state regulator's public production records. It includes:
+
+- **Data layer and data quality** — a DuckDB SQL panel built from 9.4 million regulator records, tested against pandas, that counts every defect, from records filed twice to a change of file format
+- **Bayesian inference** — a neural posterior estimator, trained once on 500,000 simulated wells, that returns each well's posterior Arps decline parameters, noise and downtime in a fraction of a second
+- **Validation** — simulation-based calibration and coverage checks on simulated wells, and a test set of wells first produced in 2020 and later, locked before any scoring and scored once
+- **Forecasts and flags** — P90, P50 and P10 cumulative oil to 36 and 60 months, and a flag for wells unlike the ones the model was trained on
+- **Benchmarks and uncertainty** — least-squares Arps, a history multiplier, a type curve and per-well MCMC, compared with bootstrap intervals over whole operators, and tables for a [Tableau Public dashboard](https://public.tableau.com/app/profile/nathan.steinle/viz/declinecast36-monthcumulativeoilforecastswithrangesforDJBasinwells/declinecast)
+
+On 1,463 test wells forecast from 12 months of production, the 80% range contains the 36-month outcome for 81% of wells, against 48% for least-squares Arps. A simple history multiplier does as well, and per-well MCMC on the same model is as accurate but takes 2.5 to 9 times more compute per forecast.
+
+[PyPI](https://pypi.org/project/declinecast/) · [Zenodo](https://doi.org/10.5281/zenodo.24095678) · [Dashboard](https://public.tableau.com/app/profile/nathan.steinle/viz/declinecast36-monthcumulativeoilforecastswithrangesforDJBasinwells/declinecast) · MIT license
+
 
 ---
 
