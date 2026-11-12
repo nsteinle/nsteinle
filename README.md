@@ -1,6 +1,6 @@
 # Nathan Steinle
 
-Astrophysicist working across gravitational-wave astronomy, multi-messenger astrophysics, and machine learning. I build data analysis pipelines, teach at the undergraduate and graduate level, and develop open educational materials and research modules for physics and data science.
+Hi! I research theoretical models, data science tools, and machine learning applications in relativistic and multi-messenger astrophysics and beyond! I am a physics and mathematics educator at the undergraduate and graduate level. Below you can find some open-source research and educational materials for physics and data science.
 
 [ORCID](https://orcid.org/0000-0003-0658-402X) · [Website](https://nsastrophysics.github.io)
 
